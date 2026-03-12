@@ -20,4 +20,3 @@ plot(iris$Sepal.Length, iris$Petal.Length,
 
 # Add regression line
 abline(model, col = "red", lwd = 2)
-
